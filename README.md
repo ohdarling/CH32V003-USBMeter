@@ -55,6 +55,7 @@ For a complete DIY tutorial, please refer to the following series of articles.
 - [DIY USB 电流表（4）：PCB 焊接与调试](https://xujiwei.com/blog/2024/03/diy-usb-meter-pcb-soldering/)
 - [DIY USB 电流表（5）：使用 VSCode + PlatformIO 搭建固件开发环境](https://xujiwei.com/blog/2024/04/diy-usb-meter-setup-fw-dev/)
 - [DIY USB 电流表（6）：点个屏，使用 I2C 驱动 0.96 寸 OLED](https://xujiwei.com/blog/2024/04/diy-usb-meter-oled-display/)
+- [DIY USB 电流表（7）：读取和显示 INA219 电流电压数据](https://xujiwei.com/blog/2024/04/diy-usb-meter-read-ina219/)
 
 
 
