@@ -49,6 +49,7 @@ For a complete DIY tutorial, please refer to the following series of articles.
 
 **Note: These articles are written in Chinese.**
 
+- [全开源！使用 7 毛钱的单片机 DIY USB 电流表教程，入坑硬件设计、固件开发、外观建模](https://xujiwei.com/blog/2024/05/diy-usb-meter-toturial/)
 - [DIY USB 电流表（1）：元件选型和原理图绘制](https://xujiwei.com/blog/2024/02/diy-usb-meter-schematic/)
 - [DIY USB 电流表（2）：PCB 布局布线](https://xujiwei.com/blog/2024/02/diy-usb-meter-pcb-design/)
 - [DIY USB 电流表（3）：PCB 免费打样详解](https://xujiwei.com/blog/2024/03/diy-usermeter-order-pcb/)
@@ -59,6 +60,7 @@ For a complete DIY tutorial, please refer to the following series of articles.
 - [DIY USB 电流表（8）：检测按键和绘制功率曲线](https://xujiwei.com/blog/2024/04/diy-usb-meter-power-history/)
 - [DIY USB 电流表番外篇：使用 PlatformIO Inspect 分析和优化固件体积](https://xujiwei.com/blog/2024/04/diy-usb-meter-pio-inspect/)
 - [DIY USB 电流表（9）：Flash 模拟 EEPROM 存储累计电量](https://xujiwei.com/blog/2024/04/diy-usb-meter-program-flash/)
+- [DIY USB 电流表（10）：完结篇，外壳和面板设计](https://xujiwei.com/blog/2024/05/diy-usb-meter-encloure-design/)
 
 
 
